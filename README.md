@@ -1,5 +1,5 @@
 # SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement (ICLR 2025)
-:closed_book: [[Paper]](https://arxiv.org/abs/)
+:closed_book: [[Paper]](https://openreview.net/pdf?id=JlDx2xp01W)
 
 ![images](framework.jpg)
 
