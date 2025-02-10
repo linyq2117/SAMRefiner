@@ -103,7 +103,7 @@ print(refined_masks.shape)
 Image.fromarray(255*refined_masks[0].astype(np.uint8)).save('examples/2007_000256_refined_mask_samhq.png')
 ```
 
-More details about the parameters used for customized prompts can be found in sam_refiner.py  
+More details about the parameters used for customized prompts can be found in [sam_refiner.py](https://github.com/linyq2117/SAMRefiner/blob/1ae5fe89571b84882fb3f1728464a3c11064b7cb/sam_refiner.py#L53)
 
 
 ## Acknowledgement
