@@ -140,7 +140,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--input_dir", default="./cam_out", type=str)
     parser.add_argument("--cam_type", default="attn_highres", type=str)
-    parser.add_argument("--output_dir", default="./cam_out", type=str)
+    parser.add_argument("--output_dir", default="./ins_out", type=str)
     args = parser.parse_args()
     
     file_list = sorted(os.listdir(args.input_dir))
